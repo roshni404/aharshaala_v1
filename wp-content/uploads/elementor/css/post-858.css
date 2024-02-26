@@ -1,0 +1,110 @@
+.elementor-kit-858 {
+  --e-global-color-primary: #6ec1e4;
+  --e-global-color-secondary: #54595f;
+  --e-global-color-text: #7a7a7a;
+  --e-global-color-accent: #61ce70;
+  --e-global-typography-primary-font-family: "Roboto";
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: "Roboto Slab";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-text-font-family: "Roboto";
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-accent-font-family: "Roboto";
+  --e-global-typography-accent-font-weight: 500;
+}
+.elementor-kit-858 h1 {
+  font-size: 10vw;
+  letter-spacing: 50px;
+}
+.elementor-kit-858 h2 {
+  font-size: 5vw;
+  letter-spacing: 10px;
+}
+.elementor-kit-858 h3 {
+  font-size: 3vw;
+}
+.elementor-kit-858 h4 {
+  font-size: 1.9vw;
+}
+.elementor-kit-858 h5 {
+  font-size: 1.6vw;
+}
+.elementor-kit-858 h6 {
+  font-size: 1.2vw;
+}
+.elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 1300px;
+}
+.e-con {
+  --container-max-width: 1300px;
+}
+.elementor-widget:not(:last-child) {
+  margin-block-end: 20px;
+}
+.elementor-element {
+  --widgets-spacing: 20px 20px;
+}
+ {
+}
+h1.entry-title {
+  display: var(--page-title-display);
+}
+.elementor-kit-858 e-page-transition {
+  background-color: #ffbc7d;
+}
+@media (max-width: 1024px) {
+  .elementor-kit-858 h1 {
+    font-size: 12vw;
+    letter-spacing: 15px;
+  }
+  .elementor-kit-858 h2 {
+    font-size: 6vw;
+    letter-spacing: 5px;
+  }
+  .elementor-kit-858 h3 {
+    font-size: 4.5vw;
+  }
+  .elementor-kit-858 h4 {
+    font-size: 3.5vw;
+  }
+  .elementor-kit-858 h5 {
+    font-size: 3vw;
+  }
+  .elementor-kit-858 h6 {
+    font-size: 2.5vw;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1024px;
+  }
+  .e-con {
+    --container-max-width: 1024px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-kit-858 h1 {
+    font-size: 14vw;
+    letter-spacing: 5px;
+  }
+  .elementor-kit-858 h2 {
+    font-size: 11vw;
+    letter-spacing: 0px;
+  }
+  .elementor-kit-858 h3 {
+    font-size: 8.5vw;
+  }
+  .elementor-kit-858 h4 {
+    font-size: 7vw;
+  }
+  .elementor-kit-858 h5 {
+    font-size: 6.5vw;
+  }
+  .elementor-kit-858 h6 {
+    font-size: 5.5vw;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 767px;
+  }
+  .e-con {
+    --container-max-width: 767px;
+  }
+}
